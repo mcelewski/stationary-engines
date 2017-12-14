@@ -31,7 +31,7 @@ Even though **WipEout 2048** / **WipEout Omega Collection** is 3D video racing g
 - [ ] Check, correct and prepare final, complete, **_working (!!!)_** code files for specific game components (entire game must be running ofc) - *early January*
 
 ## More detailed To-do list (scope)
-- [ ] 1. Create spaceship graphics
+- [x] 1. Create spaceship graphics
 - [ ] 2. Create surprise boxes graphics
 - [ ] 3. Create background graphics (both gameplay and menu)
 - [ ] 4. Create menu UI (*new game*, *options* and *exit game*)
@@ -85,4 +85,5 @@ Even though **WipEout 2048** / **WipEout Omega Collection** is 3D video racing g
 If I come up with some other ideas or realize that there's something missing, I'll add it to the list
 
 ## Work in progress
-- [ ] Create spaceship graphics
+- [x] Create spaceship graphics
+![spaceships_models.png](https://raw.githubusercontent.com/mcelewski/stationary-engines/master/Models/spaceships_models.png)
