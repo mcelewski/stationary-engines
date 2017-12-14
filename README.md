@@ -85,5 +85,4 @@ Even though **WipEout 2048** / **WipEout Omega Collection** is 3D video racing g
 If I come up with some other ideas or realize that there's something missing, I'll add it to the list
 
 ## Work in progress
-- [x] Create spaceship graphics
-![spaceships_models.png](https://raw.githubusercontent.com/mcelewski/stationary-engines/master/Models/spaceships_models.png)
+- [x] [Create spaceship graphics](https://github.com/mcelewski/stationary-engines/blob/master/Models/spaceships_models.png)
