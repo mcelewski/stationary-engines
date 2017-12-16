@@ -30,53 +30,30 @@ Even though **WipEout 2048** / **WipEout Omega Collection** is 3D video racing g
 - [ ] ~~Take deep breaths~~
 - [ ] Check, correct and prepare final, complete, **_working (!!!)_** code files for specific game components (entire game must be running ofc) - *early January*
 
-## More detailed To-do list (scope)
-- [x] 1. Create spaceship graphics
-- [ ] 2. Create surprise boxes graphics
-- [ ] 3. Create background graphics (both gameplay and menu)
-- [ ] 4. Create menu UI (*new game*, *options* and *exit game*)
-- [ ] 5. Create background animation
-- [ ] 6. Create gameplay UI (health bar, high score bar, score counter, bonus timer and other necessary graphics)
-- [ ] 7. Create in-game sound effects (both gameplay and menu)
-- [ ] 8. Create spaceship left, right, up and down moving
-- [ ] 9. Create spaceship laser shooting
-- [ ] 10. Create spaceships collision script and animation
-- [ ] 11. Create spaceships explosion script and animation
-- [ ] 12. Create player's health script
-- [ ] 13. Create player's score counter script
-- [ ] 14. Create surprise boxes script and animation
-- [ ] 15. Create "setting time speed to 2.0x" action script
-- [ ] 16. Create "changing steering by swapping keys with each other" action script
-- [ ] 17. Create "turning gameplay upside down" action script
-- [ ] 18. Create "random actions generator" script and set duration for each action to 10 seconds
-- [ ] 19. Create other surprise boxes actions
-- [ ] 20. Create sounds scripts
-- [ ] 21. Check and correct code files
-- [ ] 22. Prepare "pre-alpha" version of entire game
-
-## Estimates
-- [ ] Ad 1. 1 day
-- [ ] Ad 2. 1 day
-- [ ] Ad 3. 1 day
-- [ ] Ad 4. 1 day
-- [ ] Ad 5. 2 days
-- [ ] Ad 6. 2 days
-- [ ] Ad 7. 2 days
-- [ ] Ad 8. 1 day
-- [ ] Ad 9. 2 days
-- [ ] Ad 10. 1 day
-- [ ] Ad 11. 2 days
-- [ ] Ad 12. 1 day
-- [ ] Ad 13. 1 day
-- [ ] Ad 14. 1 day
-- [ ] Ad 15. 2 days
-- [ ] Ad 16. 2 days
-- [ ] Ad 17. 2 days
-- [ ] Ad 18. 2 days
-- [ ] Ad 19. 2-4 days (depends on how many)
-- [ ] Ad 20. 4 days
-- [ ] Ad 21. 8 days
-- [ ] Ad 22. 1 day
+## More detailed To-do list (scope) with estimates
+- [x] 1. Create spaceship graphics - 1 day
+- [x] 2. Create spaceship collision graphics - 1 day
+- [ ] 3. Create surprise boxes graphics - 1 day
+- [ ] 4. Create background graphics (both gameplay and menu) - 1 day
+- [ ] 5. Create menu UI (*new game*, *options* and *exit game*) - 1 day
+- [x] 6. Create background animation - 2 days
+- [ ] 7. Create gameplay UI (health bar, high score bar, score counter, bonus timer and other necessary graphics) - 2 days
+- [ ] 8. Create in-game sound effects (both gameplay and menu) - 2 days
+- [x] 9. Create spaceship left, right, up and down moving - 1 day
+- [ ] 10. Create spaceship laser shooting - 2 days
+- [ ] 11. Create spaceships collision script and animation - 1 day
+- [ ] 12. Create spaceships explosion script and animation - 2 days
+- [ ] 13. Create player's health script - 1 day
+- [ ] 14. Create player's score counter script - 1 day
+- [ ] 15. Create surprise boxes script and animation - 1 day
+- [ ] 16. Create "setting time speed to 2.0x" action script - 2 days
+- [ ] 17. Create "changing steering by swapping keys with each other" action script - 2 days
+- [ ] 18. Create "turning gameplay upside down" action script - 2 days
+- [ ] 19. Create "random actions generator" script and set duration for each action to 10 seconds - 2 days
+- [ ] 20. Create other surprise boxes actions - 2-4 days (depends on how many)
+- [ ] 21. Create sounds scripts - 4 days
+- [ ] 22. Check and correct code files - 8 days
+- [ ] 23. Prepare "pre-alpha" version of entire game - 1 day
 
 ## It-can-be-included-but-it-is-not-necessary list
 - [ ] Create 2 or 3 music tracks to the game (kept in Retrowave / Synthwave genre) rather than downloading them from the Internet - *after doing everything important in **To-do list***
@@ -86,3 +63,4 @@ If I come up with some other ideas or realize that there's something missing, I'
 
 ## Work in progress
 - [x] [Create spaceship graphics](https://github.com/mcelewski/stationary-engines/blob/master/Models/spaceships_models.png)
+- [x] [Create spaceship collision effects](https://github.com/mcelewski/stationary-engines/blob/master/Models/player_spaceship_collision_effects.png)
